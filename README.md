@@ -1,5 +1,7 @@
 # PWA Editor
 
+[fix]
+
 Standalone Git Editor by isomophic-git
 
 ## Goal
